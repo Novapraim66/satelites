@@ -15,4 +15,6 @@ en una composición que compara sus tamaños con el tamaño de Júpiter.
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
-Otros satelites de Júpiter son Amaltea, Adrasta y Lisita
+Otros satélites de Júpiter son Amaltea, Adrasta y Lisitea.
+
+Júpiter es el planeta mas grande del planeta solar y el quimto en odrden de lejanía al sol.
